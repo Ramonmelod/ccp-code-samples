@@ -6,7 +6,7 @@
 
 ### List of projects
 
-1. [reading and printing on screen the content of a file](https://github.com/Ramonmelod/ccp-code-samples/main/reading-a-file)
+1. [reading and printing on screen the content of a file](https://github.com/Ramonmelod/ccp-code-samples/tree/main/reading-a-file)
 
 
 
