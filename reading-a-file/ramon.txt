@@ -1,1 +1,1 @@
-With this simple C++ code, you can read the content of this filWith this simple C++ code you can read the content of this file.
+With this simple C++ code, you can read the content of this file.
